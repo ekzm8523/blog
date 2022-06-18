@@ -1,7 +1,7 @@
 [submodule "themes/pure"]
 	path = themes/pure
 	url = https://github.com/xiaoheiAh/hugo-theme-pure
-[submodule "public/ekzm8523.github.io"]
-	path = public/ekzm8523.github.io
+[submodule "public"]
+	path = public
 	url = https://github.com/ekzm8523/ekzm8523.github.io.git
 	branch = main
