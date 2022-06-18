@@ -142,8 +142,8 @@ params:
 
   # Comment
   comment:
-    type: disqus # type disqus/gitalk/valine 启用哪种评论系统
-    disqus: jaewon # enter disqus shortname here
+    type:  # type disqus/gitalk/valine 启用哪种评论系统
+    disqus:  # enter disqus shortname here
     gitalk: # gitalk. https://gitalk.github.io/
       owner: #必须. GitHub repository 所有者，可以是个人或者组织。
       admin: #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
