@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pure theme for Hugo</title>
+    <link>https://ekzm8523.github.io/</link>
+    <description>Recent content on Pure theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>CC BY 4.0 CN</copyright>
+    <lastBuildDate>Sat, 18 Jun 2022 12:48:13 +0900</lastBuildDate>
+    
+        <atom:link href="https://ekzm8523.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>✔2022-06-18 Today what I do</title>
+      <link>https://ekzm8523.github.io/post/twid/2022-06-18/</link>
+      <pubDate>Sat, 18 Jun 2022 12:48:13 +0900</pubDate>
+      
+      <guid>https://ekzm8523.github.io/post/twid/2022-06-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog를 Github Page로 옮긴 이유</title>
+      <link>https://ekzm8523.github.io/post/test/</link>
+      <pubDate>Sat, 18 Jun 2022 12:48:13 +0900</pubDate>
+      
+      <guid>https://ekzm8523.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
