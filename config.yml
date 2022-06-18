@@ -1,5 +1,5 @@
 baseURL: https://ekzm8523.github.io/
-theme: pure
+theme: pure # https://themes.gohugo.io/themes/hugo-theme-pure/
 title: Pure theme for Hugo
 copyright: CC BY 4.0 CN
 defaultContentLanguage: en  # en/zh/...
@@ -38,7 +38,7 @@ menu:
       name: Home
       title: Home
       url: /
-      weight: 1
+      weight: 1dsdf
 
     - identifier: Previous Blog
       name: Previous Blog
@@ -89,7 +89,8 @@ params:
   # Allows you to specify an override stylesheet
   # put custom.css in $hugo_root_dir/static/
   # customCSS: css/custom.css
-
+  
+  # http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html
   menuIcons:
     enable: true  # 是否启用导航菜单图标
     home: icon-home-fill
@@ -141,8 +142,8 @@ params:
 
   # Comment
   comment:
-    type:  # type disqus/gitalk/valine 启用哪种评论系统
-    disqus: your_disqus_name # enter disqus shortname here
+    type: disqus # type disqus/gitalk/valine 启用哪种评论系统
+    disqus: jaewon # enter disqus shortname here
     gitalk: # gitalk. https://gitalk.github.io/
       owner: #必须. GitHub repository 所有者，可以是个人或者组织。
       admin: #必须. GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
