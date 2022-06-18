@@ -1,6 +1,6 @@
 baseURL: https://ekzm8523.github.io/
 theme: pure # https://themes.gohugo.io/themes/hugo-theme-pure/
-title: Pure theme for Hugo
+title: 너구리의 낙서장
 copyright: CC BY 4.0 CN
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: 안녕하세요
@@ -38,7 +38,7 @@ menu:
       name: Home
       title: Home
       url: /
-      weight: 1dsdf
+      weight: 1
 
     - identifier: Previous Blog
       name: Previous Blog
