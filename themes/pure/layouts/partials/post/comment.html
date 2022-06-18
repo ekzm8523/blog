@@ -2,9 +2,9 @@
 {{- with $comment }}
 <section id="comments">
     {{- if eq $comment.type "disqus" }}
-    <!-- <div id="disqus_thread">
+    <div id="disqus_thread">
         <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    </div> -->
+    </div>
     
     {{- else if eq $comment.type "youyan" }}
     <div id="uyan_frame"></div>
