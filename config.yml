@@ -110,7 +110,7 @@ params:
     gravatar: mjw8523@gmail.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: 너구리의 낙서장
     author_title: Back-End & AI Engineer
-    author_description: I like AI
+    author_description: 
     location: Namyangju, Korea
     follow: https://github.com/ekzm8523
     # Social Links
