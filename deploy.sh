@@ -35,3 +35,5 @@ fi
 git commit -m "$msg"
 
 git push origin main
+
+# git commit --amend --no-edit --date "Sun 24 Jun 2022 16:13:19 KST"
